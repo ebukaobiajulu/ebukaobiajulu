@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning React Javascript
+- - ⚡ Fun fact: I'm a Golden State Warriors fan
 
 <!--
 **ebukaobiajulu/ebukaobiajulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
