@@ -1,6 +1,9 @@
 ### Hi there 👋
+My name is Ebuka
 - 🌱 I’m currently learning React Javascript
-- - ⚡ Fun fact: I'm a Golden State Warriors fan
+- 👯 I’m looking to collaborate on React projects
+- ⚡ Fun fact: I'm a Golden State Warriors fan
+- 📫 You can reach me on X @ebukaobiajulu 
 
 <!--
 **ebukaobiajulu/ebukaobiajulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
